@@ -10,7 +10,7 @@
   "description": "",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^7.0.0",
-    "hardhat": "^2.22.8",
+    "hardhat": "^3.7.0",
     "mocha": "^10.7.3",
     "web3": "^4.11.1"
   },
